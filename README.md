@@ -13,4 +13,4 @@ search history for the app stores upto for 8 previous valid search, if you refre
 ## Screenshots
 
 ### screenshot when page loads
-![Screenshot](Screenshots/main page.png)
+![Screenshot](screenshots/mainpage.png)
